@@ -2,6 +2,8 @@
 
 This project focuses on analysing patient falls and injury incidents within a hospital setting to support patient safety and quality improvement. Using real-world healthcare concepts, the dashboard provides insights into fall trends, risk factors, and injury outcomes to help healthcare teams make data-driven decisions.
 
+<img width="1354" height="766" alt="Hospital Wards Fall and Injury Management Dashboard" src="https://github.com/user-attachments/assets/c61f6fce-96c8-4c7a-8059-ca05c9bf2867" />
+
 ### 🔍 Project Objectives
 
 * Identify patterns and trends in patient falls
